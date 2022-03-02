@@ -1,7 +1,7 @@
 # BitInfo
 
 Tool for inspecting torrent files
-监视种子文件的小工具
+检视种子文件的小工具
 
 [![Python 3.6](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://www.python.org)
 
