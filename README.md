@@ -1,6 +1,18 @@
-# Bitinfo
+<p align="center"># Bitinfo</p>
+
+---
+
 Tool for inspecting torrent files
+监视种子文件的小工具
 
-pip install -r requirements.txt
+1.Install dependencies
+安装依赖
 
-python main.py
+```pip install -r requirements.txt```
+
+2.Run
+运行
+
+```python main.py```
+
+<a href="https://sm.ms/image/6cjX9MgerQwRlpt" target="_blank"><img src="https://s2.loli.net/2022/03/03/6cjX9MgerQwRlpt.png" ></a>
