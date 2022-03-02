@@ -1,4 +1,4 @@
-# Bitinfo
+# BitInfo
 
 Tool for inspecting torrent files
 监视种子文件的小工具
