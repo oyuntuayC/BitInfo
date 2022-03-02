@@ -1,0 +1,3 @@
+bcoding==1.5
+pyperclip==1.8.2
+windnd==1.0.7
